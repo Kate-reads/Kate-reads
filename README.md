@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kate-reads
-- 👀 I’m intersted in reading YA fantasy and romance novels and coding in order ro make datatbases and manage data 
-- 🌱 I’m currently learning ... coding 
+- 👀 Welcome to my corner of the internet where I post code I'm working on that organizes my life
+- 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Katelee7@uw.edu 
+- 📫 How to reach me ... kate.reads727@gmail.com
 
 <!---
 Kate-reads/Kate-reads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
